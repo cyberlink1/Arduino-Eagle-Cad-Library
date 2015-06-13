@@ -210,22 +210,22 @@ http://www.xganon.com</description>
 <pad name="ICSP5" x="0" y="-10.16" drill="0.8" rot="R90"/>
 </package>
 <package name="STEP-STICK">
-<pad name="EN" x="-8.89" y="5.08" drill="0.8" shape="long"/>
-<pad name="MS1" x="-8.89" y="2.54" drill="0.8" shape="long"/>
-<pad name="MS2" x="-8.89" y="0" drill="0.8" shape="long"/>
-<pad name="MS3" x="-8.89" y="-2.54" drill="0.8" shape="long"/>
-<pad name="RST" x="-8.89" y="-5.08" drill="0.8" shape="long"/>
-<pad name="SLP" x="-8.89" y="-7.62" drill="0.8" shape="long"/>
-<pad name="SPT" x="-8.89" y="-10.16" drill="0.8" shape="long"/>
-<pad name="DIR" x="-8.89" y="-12.7" drill="0.8" shape="long"/>
-<pad name="VMOT" x="3.81" y="5.08" drill="0.8" shape="long"/>
-<pad name="GNDM" x="3.81" y="2.54" drill="0.8" shape="long"/>
-<pad name="2B" x="3.81" y="0" drill="0.8" shape="long"/>
-<pad name="2A" x="3.81" y="-2.54" drill="0.8" shape="long"/>
-<pad name="1B" x="3.81" y="-5.08" drill="0.8" shape="long"/>
-<pad name="1A" x="3.81" y="-7.62" drill="0.8" shape="long"/>
-<pad name="VCC" x="3.81" y="-10.16" drill="0.8" shape="long"/>
-<pad name="GND" x="3.81" y="-12.7" drill="0.8" shape="long"/>
+<pad name="EN" x="3.81" y="5.08" drill="0.8" shape="long"/>
+<pad name="MS1" x="3.81" y="2.54" drill="0.8" shape="long"/>
+<pad name="MS2" x="3.81" y="0" drill="0.8" shape="long"/>
+<pad name="MS3" x="3.81" y="-2.54" drill="0.8" shape="long"/>
+<pad name="RST" x="3.81" y="-5.08" drill="0.8" shape="long"/>
+<pad name="SLP" x="3.81" y="-7.62" drill="0.8" shape="long"/>
+<pad name="SPT" x="3.81" y="-10.16" drill="0.8" shape="long"/>
+<pad name="DIR" x="3.81" y="-12.7" drill="0.8" shape="long"/>
+<pad name="VMOT" x="-8.89" y="5.08" drill="0.8" shape="long"/>
+<pad name="GNDM" x="-8.89" y="2.54" drill="0.8" shape="long"/>
+<pad name="2B" x="-8.89" y="0" drill="0.8" shape="long"/>
+<pad name="2A" x="-8.89" y="-2.54" drill="0.8" shape="long"/>
+<pad name="1B" x="-8.89" y="-5.08" drill="0.8" shape="long"/>
+<pad name="1A" x="-8.89" y="-7.62" drill="0.8" shape="long"/>
+<pad name="VCC" x="-8.89" y="-10.16" drill="0.8" shape="long"/>
+<pad name="GND" x="-8.89" y="-12.7" drill="0.8" shape="long"/>
 </package>
 </packages>
 <symbols>
